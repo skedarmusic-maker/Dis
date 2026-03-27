@@ -1,0 +1,26 @@
+{
+  "name": "dis",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "16.2.1",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest",
+    "@googlemaps/js-api-loader": "latest",
+    "@supabase/supabase-js": "latest",
+    "xlsx": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest"
+  }
+}
